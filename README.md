@@ -1,2 +1,4 @@
 # MIAD---StoryTelling
-Repositorio para actividades MIAD curso Storytelling
+Repositorio para actividades MIAD curso Storytelling -- ESTUDIANTE WALTER RAMÓN CHINGG , w.chingg@uniandes.edu.co
+
+EN README_ACTIVIDAD_MOD3 ENCONTRARAS EL ENLACE DE ACCESO AL DASHBOARD DE POWERBI EN CASO DE PROBLEMAS CON EL ARCHIVO ADJUNTO 
